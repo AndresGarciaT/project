@@ -1,0 +1,23 @@
+
+.container_one {
+  width: 100%;
+  height: 100vh;
+  background: #f8f1d8;
+  border: 1px solid rgba(235, 192, 141, 0.1);
+  border-radius: 2px;
+}
+img{
+    padding-top: 20px;
+}
+.btn {
+  margin: 10px !important;
+}
+h2{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #fabb5c;
+
+  mix-blend-mode: darken;
+}
